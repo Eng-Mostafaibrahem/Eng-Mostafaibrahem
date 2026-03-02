@@ -58,7 +58,7 @@ State Management Patterns
 ## 🛒 Sawaqna Ecosystem
 
 ### 🌐 Main Platform  
-Live: https://sawaqna.net  
+Live: https://souqnaecommerce.netlify.app/
 
 Production-level E-commerce platform built with scalable React architecture and optimized data fetching.
 
