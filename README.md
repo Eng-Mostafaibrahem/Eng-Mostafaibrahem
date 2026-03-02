@@ -1,120 +1,134 @@
 <h1 align="center">Hi 👋 I'm Mostafa Ibrahem</h1>
-<h3 align="center">Frontend Engineer | React & Next.js Specialist | Scalable Systems Builder</h3>
+<h3 align="center">⚛️ Frontend Engineer | React & Next.js Specialist | Scalable Systems Builder</h3>
 
 <p align="center">
-I build scalable, production-ready web applications with clean architecture and high performance.
+Building scalable, production-ready web applications with clean architecture and high performance.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate Frontend Engineer with over **2 years of experience** building modern web applications.  
-I’ve worked on **multiple production-level platforms**, including E-commerce ecosystems, sports booking systems, and online marketplaces.  
-My focus has been on **scalable React & Next.js architectures**, clean code, and performance optimization.  
-I’ve delivered **complex dashboards and real-time features**, implementing secure authentication and smooth user experiences.  
-I thrive on turning design and product requirements into **robust, maintainable systems** that scale effortlessly.
+I’m a passionate Frontend Engineer with over **2 years of experience** building modern web applications.
 
-💻 Frontend Engineer specialized in **React & Next.js**  
-⚛️ Advanced knowledge of Hooks, Performance & State Management  
-🛒 Built complete **E-commerce ecosystems** (Platform + Dashboard)  
-💬 Implemented **real-time systems** & complex UI flows  
-🔐 Designed secure authentication with **JWT & Refresh Tokens**  
-📈 Performance-first mindset  
+- 💻 Specialized in **React & Next.js**
+- ⚛️ Advanced Hooks, Performance & State Management
+- 🛒 Built full **E-commerce ecosystems (Platform + Dashboard)**
+- 💬 Implemented real-time systems & complex UI flows
+- 🔐 Designed secure authentication using **JWT & Refresh Tokens**
+- 📈 Performance-first, architecture-driven mindset
 
-> I don’t just build UI — I build systems.
+> I don’t just build UI — I engineer scalable systems.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### ⚛️ Frontend
-React.js | Next.js | React Query | Redux / Context API | Zustand | React Hook Form | Swiper.js
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js" />
+</p>
 
-### 🎨 Styling
-Tailwind CSS | Ant Design | Styled Components | Responsive & Accessible UI
+### 🎨 Styling & UI
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="40" />
+</p>
 
-### 🔐 Backend / APIs
-Node.js | REST APIs | Axios | JWT Authentication | Refresh Token Handling
+### 🔐 Backend & APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
 
-### 🧠 Architecture & Concepts
-SOLID Principles | Custom Hooks Architecture | Reusable UI Systems | Performance Optimization | State Management Patterns | Next.js SSR/SSG/ISR
+REST APIs • Axios • JWT • Refresh Token Handling
 
 ---
 
-## 💼 Projects
+# 💼 Production Ecosystems
 
-### 🛒 Sawaqna Ecosystem
+---
+
+## 🛒 Sawaqna Ecosystem
 
 **🌐 Main Platform**  
-Live: [souqna eCommerce](https://souqnaecommerce.netlify.app/)  
-> Production-level E-commerce platform built with scalable React architecture and optimized data fetching.
+https://souqnaecommerce.netlify.app/
 
-**🖥 Dashboard (Private)**  
-Internal admin system for managing products, orders, users & analytics.
+Production-level E-commerce platform built with scalable React architecture.
+
+### 🖥 Admin Dashboard (Private)
+
+Internal system for managing products, orders, users & analytics.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cbf98151-f394-4446-95cd-94f527de2a0b" 
        alt="Sawaqna Dashboard" 
-       width="80%" />
+       width="85%" />
 </p>
 
 ---
 
-### 🎮 PlayPro Ecosystem
+## 🎮 PlayPro Ecosystem
 
 **🌍 Main Platform**  
-Live: [playprodammam.com](https://playprodammam.com)  
-> Sports & activities booking platform with optimized API handling and responsive UI.
+https://playprodammam.com
 
-**🖥 Dashboard (Private)**  
-Management system for bookings, users & activities control.
+Sports & activities booking platform with optimized API handling.
+
+### 🖥 Admin Dashboard (Private)
+
+Management system for bookings, users & activities.
 
 <p align="center">
 <img src="assets/screencapture-dashboardplaypro-netlify-app-dashboard-2026-03-02-12_58_42.png" 
      alt="PlayPro Dashboard" 
-     width="80%" />
+     width="85%" />
 </p>
 
 ---
 
-### 💎 Jewelry Souqna
+## 💎 Jewelry Souqna
 
 **🌍 Store**  
-Live: [jewelry.souqna-sa.com](https://jewelry.souqna-sa.com/)  
-> Elegant online jewelry store with seamless browsing experience.
+https://jewelry.souqna-sa.com/
 
-**🖥 Dashboard (Private)**  
+Elegant jewelry E-commerce experience.
+
+### 🖥 Admin Dashboard (Private)
+
 Product & order management system.
 
 <p align="center">
-  <img src="assets/screencapture-jewelry-admin-souqna-sa-2026-03-02-13_13_02.png" alt="Jewelry Dashboard" width="80%" />
+  <img src="assets/screencapture-jewelry-admin-souqna-sa-2026-03-02-13_13_02.png" 
+       alt="Jewelry Dashboard" 
+       width="85%" />
 </p>
 
 ---
 
-### 💡 Bahj Platform
+## 💡 Bahj Platform
 
-Live: [bahj-platform.netlify.app](https://bahj-platform.netlify.app/)  
-> Frontend implementation with scalable component design & responsive UI.
+https://bahj-platform.netlify.app/
+
+Scalable frontend implementation with reusable component architecture.
 
 ---
 
-### 🌐 Furas (Freelance)
+## 🌐 Furas (Freelance)
 
-Live: [furas-7pmt.onrender.com](https://furas-7pmt.onrender.com)  
-> Modern scalable freelance project with React & Next.js.
+https://furas-7pmt.onrender.com
+
+Modern scalable freelance project built with React & Next.js.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mostafaibrahem&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mostafaibrahem&show_icons=true&theme=tokyonight&count_private=true" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Mostafaibrahem&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Mostafaibrahem&layout=compact&theme=tokyonight" width="60%" />
 </p>
 
 ---
@@ -122,10 +136,12 @@ Live: [furas-7pmt.onrender.com](https://furas-7pmt.onrender.com)
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mostafa-ibrahem-elsayed/" target="_blank">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/mostafa-ibrahem-elsayed/">LinkedIn</a> • 
   <a href="mailto:mostafaibrahem194@gmail.com">Email</a> • 
-  <a href="https://twitter.com/mostafaibrahem" target="_blank">Twitter</a>
+  <a href="https://twitter.com/mostafaibrahem">Twitter</a>
 </p>
+
+---
 
 <p align="center">
 ⭐ Always Learning | Always Building | Always Improving
