@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Mostafa Ibrahem</h1>
-<h3 align="center">Frontend Engineer | React Specialist | Performance-Oriented Developer</h3>
+<h3 align="center">Frontend Engineer | React Specialist | Scalable Systems Builder</h3>
 
 <p align="center">
 I build scalable, production-ready web applications with clean architecture and high performance.
@@ -9,25 +9,14 @@ I build scalable, production-ready web applications with clean architecture and 
 
 ## 🚀 About Me
 
-💻 Frontend Engineer focused on modern React architecture  
-⚛️ Deep understanding of React ecosystem (Hooks, Performance, Patterns)  
-🛒 Built full-scale E-commerce platforms  
-💬 Implemented real-time chat systems  
-🔐 Designed authentication flows with Refresh Token handling  
+💻 Frontend Engineer specialized in modern React architecture  
+⚛️ Advanced knowledge of Hooks, Performance & State Management  
+🛒 Built complete E-commerce ecosystems (Platform + Dashboard)  
+💬 Implemented real-time systems & complex UI flows  
+🔐 Designed secure authentication with Refresh Token handling  
 📈 Performance-first mindset  
 
-I don’t just build UI —  
-I build maintainable systems.
-
----
-
-## 🧠 Engineering Philosophy
-
-- Clean Component Architecture
-- Reusability over repetition
-- API-driven scalable design
-- Performance optimization mindset
-- Business-oriented development
+I don’t just build UI — I build systems.
 
 ---
 
@@ -37,17 +26,15 @@ I build maintainable systems.
 React.js  
 React Query  
 Redux / Context API  
+Zustand  
 React Hook Form  
 Swiper.js  
-Zustand
-
 
 ### 🎨 Styling
-Tailwind CSS 
-Ant Design
+Tailwind CSS  
+Ant Design  
 Responsive Design  
 Modern UI Architecture  
-
 
 ### 🔐 Backend Communication
 REST APIs  
@@ -55,35 +42,94 @@ Axios
 JWT Authentication  
 Refresh Token Strategy  
 
-### 🧩 Concepts & Patterns
+### 🧠 Architecture & Concepts
 SOLID Principles  
 Custom Hooks Architecture  
+Reusable UI Systems  
 Performance Optimization  
 State Management Patterns  
-Reusable UI Systems  
 
 ---
 
-## 💼 Featured Projects
+# 💼 Production Platforms
 
-### 🛒 Sawaqna
-Production-level E-commerce platform  
-Built with React Query & Tailwind CSS  
+---
+
+## 🛒 Sawaqna Ecosystem
+
+### 🌐 Main Platform  
 Live: https://sawaqna.net  
 
+Production-level E-commerce platform built with scalable React architecture and optimized data fetching.
+
+### 🖥 Dashboard (Private)  
+Built an internal admin system for managing products, orders, users & analytics.
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Sawaqna+Dashboard+Preview" alt="Sawaqna Dashboard" width="80%" />
+</p>
+
 ---
 
-### 🌐 Furas
-Freelance Frontend Project  
-Scalable structure with modern data-fetching architecture  
+## 🎮 PlayPro Ecosystem
+
+### 🌍 Main Platform  
+https://playprodammam.com  
+
+Sports & activities booking platform with optimized API handling and responsive UI.
+
+### 🖥 Dashboard (Private)  
+Management system for bookings, users & activities control.
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=PlayPro+Dashboard+Preview" alt="PlayPro Dashboard" width="80%" />
+</p>
+
+---
+
+## 💎 Jewelry Souqna
+
+### 🌍 Store  
+https://jewelry.souqna-sa.com/
+
+Online jewelry store with elegant UI & seamless browsing experience.
+
+### 🖥 Dashboard (Private)  
+Product & order management system.
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Jewelry+Dashboard+Preview" alt="Jewelry Dashboard" width="80%" />
+</p>
+
+---
+
+## 💡 Bahj Platform
+
+🌍 Live: https://bahj-platform.netlify.app/
+
+Frontend implementation with scalable component design & responsive UI.
+
+### 🖥 Dashboard (Private)  
+Admin interface for monitoring users and activities.
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Bahj+Dashboard+Preview" alt="Bahj Dashboard" width="80%" />
+</p>
+
+---
+
+## 🌐 Furas
+
 Live: https://furas-7pmt.onrender.com  
+
+Freelance frontend project with modern scalable structure.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Mostafaibrahem&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
