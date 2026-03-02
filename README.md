@@ -66,7 +66,8 @@ Production-level E-commerce platform built with scalable React architecture and 
 Built an internal admin system for managing products, orders, users & analytics.
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Sawaqna+Dashboard+Preview" alt="Sawaqna Dashboard" width="80%" />
+  <img src="./assets/<img width="1920" height="3037" alt="screencapture-adminsouqna-netlify-app-2026-03-02-12_59_20" src="https://github.com/user-attachments/assets/cbf98151-f394-4446-95cd-94f527de2a0b" />
+" alt="Sawaqna Dashboard" width="80%" />
 </p>
 
 ---
