@@ -84,7 +84,7 @@ Sports & activities booking platform with optimized API handling and responsive 
 Management system for bookings, users & activities control.
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=PlayPro+Dashboard+Preview" alt="PlayPro Dashboard" width="80%" />
+  <img src="https://github.com/user-attachments/assets/ alt="PlayPro Dashboard" width="80%" />
 </p>
 
 ---
