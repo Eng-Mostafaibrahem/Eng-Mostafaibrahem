@@ -101,7 +101,7 @@ Online jewelry store with elegant UI & seamless browsing experience.
 Product & order management system.
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Jewelry+Dashboard+Preview" alt="Jewelry Dashboard" width="80%" />
+  <img src="assets/screencapture-jewelry-admin-souqna-sa-2026-03-02-13_13_02.png" alt="Jewelry Dashboard" width="80%" />
 </p>
 
 ---
@@ -111,13 +111,6 @@ Product & order management system.
 🌍 Live: https://bahj-platform.netlify.app/
 
 Frontend implementation with scalable component design & responsive UI.
-
-### 🖥 Dashboard (Private)  
-Admin interface for monitoring users and activities.
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Bahj+Dashboard+Preview" alt="Bahj Dashboard" width="80%" />
-</p>
 
 ---
 
