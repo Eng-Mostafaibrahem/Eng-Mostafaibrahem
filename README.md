@@ -84,8 +84,9 @@ Sports & activities booking platform with optimized API handling and responsive 
 Management system for bookings, users & activities control.
 
 <p align="center">
-  <img src="assets/screencapture-dashboardplaypro-netlify-app-dashboard-2026-03-02-12_58_42.png alt="PlayPro Dashboard" width="80%" />
-</p>
+<img src="assets/screencapture-dashboardplaypro-netlify-app-dashboard-2026-03-02-12_58_42.png" 
+     alt="PlayPro Dashboard" 
+     width="80%" /></p>
 
 ---
 
