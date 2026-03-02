@@ -9,6 +9,12 @@ I build scalable, production-ready web applications with clean architecture and 
 
 ## 🚀 About Me
 
+I’m a passionate Frontend Engineer with over **2 years of experience** building modern web applications.  
+I’ve worked on **multiple production-level platforms**, including E-commerce ecosystems, sports booking systems, and online marketplaces.  
+My focus has been on **scalable React & Next.js architectures**, clean code, and performance optimization.  
+I’ve delivered **complex dashboards and real-time features**, implementing secure authentication and smooth user experiences.  
+I thrive on turning design and product requirements into **robust, maintainable systems** that scale effortlessly.
+
 💻 Frontend Engineer specialized in **React & Next.js**  
 ⚛️ Advanced knowledge of Hooks, Performance & State Management  
 🛒 Built complete **E-commerce ecosystems** (Platform + Dashboard)  
